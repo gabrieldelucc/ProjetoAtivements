@@ -1,0 +1,38 @@
+{
+  "locais": [
+    {
+      "id": "5c9e8d03-eda1-4c64-b63c-c3d36250984c",
+      "nome": "teste"
+    }
+  ],
+  "ativos": [
+    {
+      "id": "028a50e0-2a57-40c7-862f-8cb31a3414a6",
+      "nome": "teste2",
+      "numero": "1234567",
+      "local": "5c9e8d03-eda1-4c64-b63c-c3d36250984c",
+      "dataRegistro": "13/09/2024, 15:11:59",
+      "usuario_id": "6bd541f9-d4b4-4dd9-9e35-a3d37b3602f8",
+      "status": true,
+      "dataAlteracao": "13/09/2024, 15:13:33",
+      "usuarioAlteracao": "6bd541f9-d4b4-4dd9-9e35-a3d37b3602f8"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "6bd541f9-d4b4-4dd9-9e35-a3d37b3602f8",
+      "login": "s",
+      "imagem": "https://avatars.githubusercontent.com/u/1969638?v=4"
+    },
+    {
+      "id": "25addf48-628f-497c-b6c8-905ca0d0d1cf",
+      "login": "asdasd",
+      "imagem": "https://avatars.githubusercontent.com/u/42302?v=4"
+    },
+    {
+      "id": "5d740b49-8612-4c48-b18b-ed34467d93bf",
+      "login": "gabrieldelucc",
+      "imagem": "https://avatars.githubusercontent.com/u/125310404?v=4"
+    }
+  ]
+}
